@@ -12,7 +12,7 @@ TODO
 # Git
 
 TODO
-`git clone --recursive -j8 https://github.com/aalaa-sehsah/protein-vae-wgan-gp`
+`git clone --recursive -j8 https://github.com/aalaa-sehsah/tp-vwgan`
 
 # Steps
 
