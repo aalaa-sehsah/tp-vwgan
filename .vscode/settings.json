@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
-        "CUDA"
+        "CUDA",
+        "pycache",
+        "VWGAN",
+        "wgan"
     ]
 }

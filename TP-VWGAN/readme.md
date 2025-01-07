@@ -1,4 +1,4 @@
-# vae-wgan-gp-128
+# TP-VWGAN
 
 We train a VAE-WGAN-GP model using generated distance matrices (128x128). 
 
@@ -16,5 +16,5 @@ We train a VAE-WGAN-GP model using generated distance matrices (128x128).
   - USER: Run `python -m pip install -r requirements.txt` in terminal.
   - USER: Run `pip install torch torchvision --index-url https://download.pytorch.org/whl/torch_stable.html`
 - `train.py`
-  - Trains VAE-WGAN-GP-128 model.
+  - Trains TP-VWGAN model.
   - Saves model checkpoints (in `models`) and models progress (in `runs`).

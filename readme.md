@@ -32,4 +32,4 @@ Run `2-create-datasets` or follow `pdb-dataset/readme.md`
 
 ## Step #3: Train VAE-WGAN-GP Model
 
-Run `3-train-models.sh` or follow `vae-wgan-gp-128/readme.md`
+Run `3-train-models.sh` or follow `TP-VWGAN/readme.md`
