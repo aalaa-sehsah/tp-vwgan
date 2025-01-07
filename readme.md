@@ -1,6 +1,6 @@
-# Protein TP-VWGAN Paper
+# tp-vwgan
 
-TODO
+This repository contains the implementation and supplementary materials related to an unpublished scientific paper. The paper is currently under review. Detailed descriptions of the methods, experiments, and results can be found in the paper upon its publication.
 
 ## Environment
 
@@ -11,14 +11,13 @@ TODO
 
 # Git
 
-TODO
-`git clone --recursive -j8 https://github.com/aalaa-sehsah/tp-vwgan`
+To clone the repo with submodules, run this command in the terminal: `git clone --recursive -j8 https://github.com/aalaa-sehsah/tp-vwgan tp-vwgan`
 
 # Steps
 
-TODO
+Follow the following steps to successfully train the model.
 
-## Step #0: Download PDB Database
+## Step #0: Install Python Requirements
 
 Run `0-install-requirements.sh`
 
@@ -33,3 +32,7 @@ Run `2-create-datasets` or follow `pdb-dataset/readme.md`
 ## Step #3: Train TP-VWGAN Model
 
 Run `3-train-models.sh` or follow `TP-VWGAN/readme.md`
+
+# Note
+
+If you need the trained models, contact me at `aalaa.sehsah@gmail.com`

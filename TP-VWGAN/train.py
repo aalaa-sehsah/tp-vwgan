@@ -23,7 +23,7 @@ def log_msg(msg: str, level: str = "info", src="?"):
     print(f"[{colored(level.upper(), color)}] ({src}) {msg}")
 
 
-class VAE_WGAN_GP:
+class TP_VWGAN:
     def __init__(
         self,
         dataset_path: str,
@@ -317,7 +317,7 @@ if __name__ == "__main__":
 
     data_path = r"../pdb-dataset/train_dataset/128aa.hdf5"
 
-    model = VAE_WGAN_GP(
+    model = TP_VWGAN(
         dataset_path=data_path,
         res=128,
         batch_size=64,
