@@ -35,4 +35,4 @@ Run `3-train-models.sh` or follow `TP-VWGAN/readme.md`
 
 # Note
 
-If you need the trained models, contact me at `aalaa.sehsah@gmail.com`
+If you need the trained models files, contact me at `aalaa.sehsah@gmail.com`
