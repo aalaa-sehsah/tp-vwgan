@@ -1,0 +1,6 @@
+[submodule "pdb-database"]
+	path = pdb-database
+	url = https://github.com/aalaa-sehsah/pdb-database
+[submodule "pdb-dataset"]
+	path = pdb-dataset
+	url = https://github.com/aalaa-sehsah/pdb-dataset
