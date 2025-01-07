@@ -1,4 +1,6 @@
-torch
 h5py
 tqdm
 termcolor
+torch
+torchvision
+tensorboard
