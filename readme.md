@@ -1,4 +1,4 @@
-# Protein VAE-WGAN-GP Paper
+# Protein TP-VWGAN Paper
 
 TODO
 
