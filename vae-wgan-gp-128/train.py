@@ -309,7 +309,13 @@ class VAE_WGAN_GP:
 
 
 if __name__ == "__main__":
-    data_path = r"D:\People\aalaa.sehsah\protein-vae-wgan-gp\pdb-dataset\generated_dataset\dataset_128aa.hdf5"
+    import sys
+    import os
+
+    dir_ = os.path.dirname(sys.argv[0])
+    dir_ and os.chdir(dir_)
+
+    data_path = r"../pdb-dataset/generated_dataset/dataset_128aa.hdf5"
 
     model = VAE_WGAN_GP(
         dataset_path=data_path,
