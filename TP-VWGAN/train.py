@@ -315,7 +315,7 @@ if __name__ == "__main__":
     dir_ = os.path.dirname(sys.argv[0])
     dir_ and os.chdir(dir_)
 
-    data_path = r"../pdb-dataset/generated_dataset/dataset_128aa.hdf5"
+    data_path = r"../pdb-dataset/train_dataset/128aa.hdf5"
 
     model = VAE_WGAN_GP(
         dataset_path=data_path,

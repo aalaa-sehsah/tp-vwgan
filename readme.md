@@ -30,6 +30,6 @@ Run `1-download-database.sh` or follow `pdb-database/readme.md`
 
 Run `2-create-datasets` or follow `pdb-dataset/readme.md`
 
-## Step #3: Train VAE-WGAN-GP Model
+## Step #3: Train TP-VWGAN Model
 
 Run `3-train-models.sh` or follow `TP-VWGAN/readme.md`

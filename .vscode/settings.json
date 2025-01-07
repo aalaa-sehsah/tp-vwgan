@@ -3,7 +3,6 @@
         "CUDA",
         "pycache",
         "torchvision",
-        "VWGAN",
-        "wgan"
+        "VWGAN"
     ]
 }
